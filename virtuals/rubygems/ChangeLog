@@ -1,0 +1,9 @@
+# ChangeLog for virtual/rubygems
+# Copyright 1999-2010 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /chebatron/virtual/rubygems/ChangeLog,v 1.8 2010/02/06 18:26:55 cheba Exp $
+
+*rubygems-0-r3 (06 Feb 2010)
+
+  06 Feb 2010; Alex Mankuta <cheba@pointlessone.org> +rubygems-0-r3.ebuild:
+  New virtual that uses rubygems[ruby19] to provide RubyGems on Ruby 1.9
+
