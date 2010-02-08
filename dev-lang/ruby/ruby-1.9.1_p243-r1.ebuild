@@ -38,7 +38,8 @@ RDEPEND="
 	!<dev-ruby/rdoc-2
 	!dev-ruby/rexml"
 DEPEND="${RDEPEND}"
-PDEPEND="
+PDEPEND="dev-ruby/rake
+	dev-ruby/rubygems
 	emacs? ( app-emacs/ruby-mode )
 	xemacs? ( app-xemacs/ruby-modes )"
 
