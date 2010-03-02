@@ -1,9 +1,46 @@
 # ChangeLog for dev-ruby/bundler
 # Copyright 1999-2010 Gentoo Foundation; Distributed under the GPL v2
-# $Header: /chebatron/dev-ruby/bundler/ChangeLog,v 1.1 2010/02/10 00:34:48 cheba Exp $
+# $Header: /chebatron/dev-ruby/bundler/ChangeLog,v 1.1 2010/03/02 15:09:48 cheba Exp $
+
+*bundler-0.9.10 (02 Mar 2010)
+
+  02 Mar 2010; Alex Mankuta <cheba@pointlessone.org>
+  +bundler-0.9.10.ebuild:
+  Bump
+
+
+*bundler-0.9.9 (26 Feb 2010)
+
+  26 Feb 2010; Alex Mankuta <cheba@pointlessone.org>
+  +bundler-0.9.9.ebuild:
+  Bump
+
+*bundler-0.9.8 (25 Feb 2010)
+
+  25 Feb 2010; Alex Mankuta <cheba@pointlessone.org>
+  +bundler-0.9.8.ebuild:
+  Bump
+
+*bundler-0.9.7 (23 Feb 2010)
+
+  23 Feb 2010; Alex Mankuta <cheba@pointlessone.org>
+  +bundler-0.9.7.ebuild:
+  Bump
+
+*bundler-0.9.5 (13 Feb 2010)
+
+  13 Feb 2010; Alex Mankuta <cheba@pointlessone.org>
+  -bundler-0.9.4.ebuild, +bundler-0.9.5.ebuild:
+  Bump
+
+*bundler-0.9.4 (11 Feb 2010)
+
+  11 Feb 2010; Alex Mankuta <cheba@pointlessone.org>
+  -bundler-0.9.3.ebuild, +bundler-0.9.4.ebuild:
+  Bump
 
 *bundler-0.9.3 (10 Feb 2010)
 
-  10 Feb 2010; Alex Mankuya <cheba@pointlessone.org>
+  10 Feb 2010; Alex Mankuta <cheba@pointlessone.org>
   +bundler-0.9.3.ebuild:
   Newest bundler
